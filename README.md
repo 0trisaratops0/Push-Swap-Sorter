@@ -25,12 +25,9 @@ This program takes a list of integers and sorts it using **two stacks** with a Q
 
 # 🚀 Usage
 
-# 🚀 Usage
-
-### 🔧 Build
 
 ```bash
-make
+make ```
 
 ▶️ Run
 
